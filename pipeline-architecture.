@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Add project architecture diagram"
+git branch -M main
+git remote add origin "https://excalidraw.com/#json=ek4bBCGV0YMo4seqfgIBw,dXi_nB7X5bzl1InDifRoKA"
+git push -u origin main
